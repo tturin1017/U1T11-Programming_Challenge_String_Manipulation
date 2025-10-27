@@ -28,3 +28,6 @@ Thumbs.db
 
 # VS Code settings (if using)
 .vscode/
+
+#Ignore classroom.yml file 
+.github/workflows/classroom.yml
